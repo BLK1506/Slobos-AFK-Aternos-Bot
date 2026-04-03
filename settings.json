@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " the_absolut.aternos.me",
+    "ip": "the_absolut.aternos.me",
     "port": 45834,
     "version": "",
     "try-creative": false
